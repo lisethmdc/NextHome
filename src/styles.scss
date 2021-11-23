@@ -1,0 +1,38 @@
+/*@import '/styles/variables';*/
+
+/********TITLE*******/
+
+.container{
+    margin-top: 30px;
+    margin-bottom: 30px;    
+  }
+ 
+.title {
+    color: #3F5E5A;
+    display: flex;
+    justify-content: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/********CARDS******/
+.col {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    background-color: #20FC8F;
+}
+
+/*******FOOTER*****/
+footer {
+    background-color: #353831;
+}
+
+h6 {
+    .contact {
+        color: #3F5E5A;
+    }
+}
+
+
